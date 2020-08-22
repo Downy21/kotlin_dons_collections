@@ -9,8 +9,7 @@ fun main() {
     mutableList.add("Bambang")
     mutableList.add("Ryans")
     mutableList.remove("Bambang")
-    mutableList.set(1,"Ryans")
-
+    mutableList.set(1, "Ryans")
 
 
     // Disini Kita Melakukan Pemanggilan dengan perintah For
@@ -20,9 +19,6 @@ fun main() {
 
     println(mutableList.isEmpty())
     println(mutableList.isNotEmpty())
-
-
-
 
 
 }
