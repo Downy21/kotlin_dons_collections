@@ -8,7 +8,7 @@ package app
     }
 
 
-fun main() {
+fun main()  {
 
     displaycollections(setOf("Miku Nakano","Itsuki Chan "))
     displaycollections(listOf("Nakano Nino ","Nakano Ichika"))
